@@ -1,1 +1,3 @@
-# listen-api
+# Listen API
+
+Spotify Integration App API
